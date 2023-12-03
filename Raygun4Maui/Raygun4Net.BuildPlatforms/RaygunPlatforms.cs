@@ -1,4 +1,4 @@
-﻿namespace Raygun4Net.BuildPlatforms
+﻿namespace Raygun4Maui.Raygun4Net.BuildPlatforms
 {
     public static class Raygun4NetBuildPlatforms
     {

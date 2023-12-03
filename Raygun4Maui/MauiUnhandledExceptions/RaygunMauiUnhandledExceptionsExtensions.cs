@@ -1,5 +1,5 @@
-﻿using Raygun4Maui.MattJohnsonPint.Maui;
-using Raygun4Net.BuildPlatforms;
+﻿using Raygun4Maui.MauiUnhandledExceptions.MattJohnsonPint.Maui;
+using Raygun4Maui.Raygun4Net.BuildPlatforms;
 
 namespace Raygun4Maui.MauiUnhandledExceptions
 {

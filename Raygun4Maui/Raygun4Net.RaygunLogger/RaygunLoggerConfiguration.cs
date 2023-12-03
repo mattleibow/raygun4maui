@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
 using Mindscape.Raygun4Net;
 
-namespace Raygun4Net.RaygunLogger
+namespace Raygun4Maui.Raygun4Net.RaygunLogger
 {
     public class RaygunLoggerConfiguration : RaygunSettings
     {

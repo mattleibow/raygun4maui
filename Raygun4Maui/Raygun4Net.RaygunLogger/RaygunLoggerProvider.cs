@@ -1,8 +1,7 @@
-﻿using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
-using System.Collections.Concurrent;
+﻿using System.Collections.Concurrent;
+using Microsoft.Extensions.Logging;
 
-namespace Raygun4Net.RaygunLogger
+namespace Raygun4Maui.Raygun4Net.RaygunLogger
 {
     public sealed class RaygunLoggerProvider : ILoggerProvider
     {
