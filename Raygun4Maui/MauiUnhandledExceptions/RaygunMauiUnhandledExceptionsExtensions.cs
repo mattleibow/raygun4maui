@@ -22,7 +22,7 @@ namespace Raygun4Maui.MauiUnhandledExceptions
                 Exception e = (Exception)args.ExceptionObject;
                 List<string> tags = new List<string>() { "UnhandledException" };
 
-                if (raygunMauiSettings.SendDefaultTags)
+                if (raygunMauiSettings.RaygunSettings.SendDefaultTags)
                 {
                     tags.Add(Raygun4NetBuildPlatforms.GetBuildPlatform());
                 }
