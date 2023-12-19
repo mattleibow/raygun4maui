@@ -3,7 +3,7 @@ using Mindscape.Raygun4Net;
 
 namespace Raygun4Maui.Raygun4Net.RaygunLogger
 {
-    public class RaygunLoggerConfiguration : RaygunSettings
+    public class RaygunLoggerConfiguration 
     {
         public bool SendDefaultTags{get; set;}
 
